@@ -10,7 +10,7 @@ This is a fullstack project that demonstrates a Solidity-based token vesting sma
 ```
 token-vesting-fullstack/
 ├── contracts/             # Solidity smart contract
-├── backend/               # Node.js backend API with Winston logging
+├── backend/               # Node.js backend API with logging
 │   ├── app.js
 │   ├── logger.js
 │   └── package.json
