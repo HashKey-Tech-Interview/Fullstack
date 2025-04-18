@@ -15,5 +15,7 @@ The contract implements the following features:
 - Function that Organization should be able to whitelist addresses for certain stakeholders (founders, investors etc.).
 - Whitelisted addresses should be able to claim their tokens after the vesting period.
 
+## Working Video link: [Click here](https://drive.google.com/file/d/1e2wwdsxtZlFCznANlIxUNEgWEJcIvDhs/view?usp=sharing)
+
 
 
